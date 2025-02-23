@@ -12,5 +12,9 @@ public class SolarSystem {
         exosias.color="green";
         exosias.temp="-54k";
 
+        Planet1 zolo=new Planet1();
+        zolo.color="gray";
+        zolo.temp="228 cel";
+
     }
 }
