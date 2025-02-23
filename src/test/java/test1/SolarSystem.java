@@ -8,5 +8,9 @@ public class SolarSystem {
         bs.moon=2;
         bs.planets=2;
 
+        Sun exosias=new Sun();
+        exosias.color="green";
+        exosias.temp="-54k";
+
     }
 }
